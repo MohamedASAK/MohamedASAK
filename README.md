@@ -2,7 +2,7 @@
 <h3 align="center">Software Enginner | Web Developer</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Full-Stack Development<br><br>💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Jquery, TypeScript, Angular<br><br>📫 How to reach me mohamedasak@gmail.com
+🌱 I’m currently learning Full-Stack Development<br><br>📫 How to reach me mohamedasak@gmail.com
 
 
 ## 🌐 Socials:
