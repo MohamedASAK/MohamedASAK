@@ -1,12 +1,10 @@
 <h2 align="center">Hi 👋, I'm Mohamed Adel<br>AI Developer @Aitronix | Software Engineer</h2>
 
----
-
 ##
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-###
+##
 
 <h2 align="left">🧠 About Me</h2>
 
